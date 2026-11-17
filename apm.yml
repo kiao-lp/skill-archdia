@@ -1,0 +1,9 @@
+{
+  "name": "archdia",
+  "version": "1.0.0",
+  "description": "archdia skill",
+  "targets": [
+    "codex",
+    "claude"
+  ]
+}
